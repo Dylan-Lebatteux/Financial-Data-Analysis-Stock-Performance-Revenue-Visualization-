@@ -15,7 +15,7 @@ A comprehensive data analysis project that combines API integration and web scra
 
 ## Technical Stack
 
-- **Python** | **Pandas** | **BeautifulSoup** | **Plotly** | **yfinance**
+- **Python** | **Pandas** | **BeautifulSoup** | **Matplotlib** | **yfinance**
 
 ## Deliverables
 
